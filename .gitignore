@@ -1,0 +1,8 @@
+.env
+*.db
+cookies.json
+__pycache__/
+.streamlit/
+*.log
+videos/
+user_data/
