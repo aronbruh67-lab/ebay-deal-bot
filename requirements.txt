@@ -1,0 +1,8 @@
+playwright
+streamlit
+requests
+beautifulsoup4
+pandas
+python-dotenv
+sqlite3
+# For browser automation and UI
